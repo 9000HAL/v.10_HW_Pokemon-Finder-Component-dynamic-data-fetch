@@ -1,0 +1,26 @@
+/* Apply a style for the input box */
+input {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  /* Apply style for the Pokemon image */
+  img {
+    width: 150px;
+    height: auto;
+    margin: 20px;
+  }
+  
+  /* Apply styles for Pokemon characteristics */
+  div {
+    margin: 5px;
+  }
+  
+  /* Style the CATCH button */
+  button {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
